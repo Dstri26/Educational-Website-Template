@@ -23,8 +23,8 @@
 
     }
 </style>
-
-<div class="container">
+<section style="background:url('./assets/img/visionbg.jpg');background-size:cover;">
+<div class="container" >
     <!-- Heading -->
     <h3 style = "color: #172a3a">Welcome to CET,Bhubaneswar</h3>
 
@@ -113,12 +113,11 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
             </p>
         </div>
         <!-- Sidebar -->
-        <div class="col-md-5" style="background-color:rgb(188, 219, 240);">
-        <div class="timeline">
-                <div class="container py-5">
-
-        <div class="row">
-            <div class="col-md-10 mx-auto">
+        <div class="col-md-5">
+        <div class="timeline"  style="background-color:rgb(0, 155, 255,0.3);">
+        <div class="container py-5">
+        <div class="row" >
+            <div class="col-md-10 mx-auto" >
                 <h3>Recent Notice</h3>
                 <!-- Timeline -->
                 <ul class="timeline">
@@ -138,10 +137,6 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
                         <div class="timeline-arrow"></div>
                         <h2 class="h5 mb-0">Title of section 4</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>10 October, 2019</span>
                     </li>
-                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                        <div class="timeline-arrow"></div>
-                        <h2 class="h5 mb-0">Title of section 4</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>10 October, 2019</span>
-                    </li>
                 </ul><!-- End -->
                 <br>
                 <button class="btn btn-primary">More Notice</button>
@@ -153,3 +148,4 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
         </div>
     </div>
 </div>
+</section>

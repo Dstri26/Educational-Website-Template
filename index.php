@@ -12,10 +12,10 @@
     include "components/vision.php";
 ?>
 <br>
-<div style="height: auto;margin:5vw;">
+<div style="height: auto">
         <div class="profile-card" style="border-width: 0px;">
-            <div class="profile-back" style="background: rgb(188,219,240);"></div><img class="rounded-circle profile-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAgrsY1Zw5553wtz3MX7Tm6FWm-1nGG-pENw&amp;usqp=CAU">
-            <h3 class="profile-name" style="background: rgb(188,219,240);">Prof.&nbsp; Prashant Kumar Patra<br>Principal, CET-B</h3>
+            <div class="profile-back" style="background: rgba(0, 155, 255,0.3);"></div><img class="rounded-circle profile-pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAgrsY1Zw5553wtz3MX7Tm6FWm-1nGG-pENw&amp;usqp=CAU">
+            <h3 class="profile-name" style="background: rgba(0, 155, 255,0.3);">Prof.&nbsp; Prashant Kumar Patra<br>Principal, CET-B</h3>
             <p class="profile-bio" style="font-size: 14px;"><br>College of Engineering and Technology has been a pool of meritorious students consistently for many years. And hence it has always tried to facilitate quality engineering education to equip and enrich young men and women to meet global
                 challenges in development, innovation and application of technology in the service of humanity.<br>Ever since its&nbsp;inception, a strong commitment to excellence in&nbsp;teaching and research has made CET, Bhubaneswar one of the top
                 most colleges in Odisha. Its rich academic tradition has always attracted the most&nbsp;talented students who later contribute to the progress of the society.<br>I would like to acknowledge the students for their consistent hard work due
