@@ -1,5 +1,5 @@
-<div class="footer-dark" style="background: url(&quot;https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/4651/2018/4/23/CET-Bhubaneswar--Campus-View-2.png&quot;) center / cover no-repeat;padding: 0px;">
-        <footer class="d-xl-flex align-items-xl-center" style="background: rgba(0,0,0,0.59);height: 50vh;">
+<div class="footer-dark" style="background: url(&quot;https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/4651/2018/4/23/CET-Bhubaneswar--Campus-View-2.png&quot;) center / cover no-repeat;padding: 0px;height:auto">
+        <footer class="d-flex align-items-center" style="background: rgba(0,0,0,0.59);height:auto;padding:10vh">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-3 item">
