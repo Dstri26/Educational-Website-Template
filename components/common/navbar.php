@@ -1,5 +1,5 @@
 <div style="background: #f6f5ae;height: 1vh;"></div>
-<nav class="navbar navbar-light navbar-expand-md navigation-clean" style="background: #009bff;">
+<nav class="navbar navbar-light sticky-top navbar-expand-md navigation-clean" style="background: #009bff;">
         <div class="container"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav mx-auto">
