@@ -115,35 +115,35 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
         <!-- Sidebar -->
         <div class="col-md-5">
         <div class="timeline"  style="background-color:rgb(0, 155, 255,0.3);">
-        <div class="container py-5">
-        <div class="row" >
-            <div class="col-md-10 mx-auto" >
-                <h3>Recent Notice</h3>
-                <!-- Timeline -->
-                <ul class="timeline">
-                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                        <div class="timeline-arrow"></div>
-                        <h2 class="h5 mb-0">Title of section 1</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>21 March, 2019</span>
-                    </li>
-                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                        <div class="timeline-arrow"></div>
-                        <h2 class="h5 mb-0">Title of section 2</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>5 April, 2019</span>
-                    </li>
-                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                        <div class="timeline-arrow"></div>
-                        <h2 class="h5 mb-0">Title of section 3</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
-                    </li>
-                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
-                        <div class="timeline-arrow"></div>
-                        <h2 class="h5 mb-0">Title of section 4</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>10 October, 2019</span>
-                    </li>
-                </ul><!-- End -->
-                <br>
-                <button class="btn btn-primary">More Notice</button>
+            <div class="container py-5">
+                <div class="row" >
+                        <div class="col-md-10 mx-auto" >
+                            <h3>Recent Notice</h3>
+                            <!-- Timeline -->
+                            <ul class="timeline">
+                                <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                                    <div class="timeline-arrow"></div>
+                                    <h2 class="h5 mb-0">Title of section 1</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>21 March, 2019</span>
+                                </li>
+                                <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                                    <div class="timeline-arrow"></div>
+                                    <h2 class="h5 mb-0">Title of section 2</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>5 April, 2019</span>
+                                </li>
+                                <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                                    <div class="timeline-arrow"></div>
+                                    <h2 class="h5 mb-0">Title of section 3</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>18 August, 2019</span>
+                                </li>
+                                <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                                    <div class="timeline-arrow"></div>
+                                    <h2 class="h5 mb-0">Title of section 4</h2><span class="small text-gray"><i class="fa fa-clock-o mr-1"></i>10 October, 2019</span>
+                                </li>
+                            </ul><!-- End -->
+                            <br>
+                            <button class="btn btn-primary">More Notice</button>
 
+                        </div>
+                </div>
             </div>
-        </div>
-    </div>
     </div>
         </div>
     </div>

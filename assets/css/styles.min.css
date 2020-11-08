@@ -13,11 +13,11 @@ ul.timeline:before {
     width: 4px;
     height: 100%;
     z-index: 400;
-    border-radius: 1rem
+    border-radius: 1rem;
 }
 
 li.timeline-item {
-    margin: 20px 0
+    margin: 20px 0;
 }
 
 .timeline-arrow {
@@ -26,7 +26,7 @@ li.timeline-item {
     border-bottom: .5rem solid transparent;
     display: block;
     position: absolute;
-    left: 2rem
+    left: 2rem;
 }
 
 li.timeline-item::before {
@@ -375,7 +375,6 @@ li.timeline-item::before {
     display: inline-block;
     text-align: center;
     border-radius: 50%;
-    box-shadow: 0 0 0 1px rgba(255, 255, 255, .4);
     margin: 0 8px;
     color: #fff;
     opacity: .75
