@@ -10,6 +10,8 @@
 
     }
     #more {display: none;}
+
+    
 </style>
 <?php
     include "components/common/header.php";
@@ -47,7 +49,7 @@ With the guidance of teachers and of the college’s administrative staff, I hop
 <Strong>Thanking You,<br/>
 Prof. Prashant Kumar Patra<br/>
 Principal</strong></span><br/><br/>
-<button onclick="more()" id="myBtn" class = "btn btn-primary" style = "background-color: #f6f5ae;color: #212529;">Read more</button>
+<button onclick="more()" id="myBtn" class = "btn btn-primary" style = "border:0px;background-color: #f6f5ae;color: #212529;">Read more</button>
         </blockquote>
     </div><br/>
 </div>
@@ -81,7 +83,7 @@ Principal</strong></span><br/><br/>
                                             </li>
                                         </ul><!-- End -->
                                         <br>
-                                        <button class="btn btn-primary">More Notice</button>
+                                        <button class="btn btn-primary" style="border:0px;background-color: #f6f5ae;color: #212529;">More Events</button>
                                     </div>
                             </div>
                         </div>
@@ -98,7 +100,7 @@ Principal</strong></span><br/><br/>
                     <img class="d-block w-100" src="https://scontent.fbbi1-1.fna.fbcdn.net/v/t1.0-9/87693356_1381958505325523_5471747167842467840_o.jpg?_nc_cat=106&ccb=2&_nc_sid=e3f864&_nc_ohc=eCbpeEAMTdoAX8Va_Ma&_nc_ht=scontent.fbbi1-1.fna&oh=3298da4437ba263fa6abd3a31bcb347e&oe=5FCF0076" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="https://images.shiksha.com/mediadata/images/1519216655phpHDt6VH.png" alt="Third slide">
+                    <img class="d-block w-100" src="https://www.bhubaneswarbuzz.com/wp-content/uploads/2018/02/Maker-Fest-bhubaneswarbuzz-4.jpeg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
