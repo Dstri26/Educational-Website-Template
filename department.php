@@ -13,7 +13,13 @@
     }
     summary{
 
-padding: 5px;
+        padding: 5px;
+
+    }
+    img{
+
+        border-radius: 200px;
+        width: 150px;
 
     }
 </style>
@@ -60,12 +66,12 @@ padding: 5px;
                     </p>
                 </details>
                 <details>
-                    <summary>PEO 1</summary>
+                    <summary>PEO 3</summary>
                     <p>
                     Exhibit professionalism, ethical attitude, communication skills, team work in their profession and adapt to current trends by engaging in life long learning.
                     </p>
                 </details>
-            </div>
+            </div><br/>
 
             <h5>Program Outcomes (POs)</h5>
             <ol>
@@ -99,6 +105,19 @@ padding: 5px;
             The Department of Instrumentation and Electronics Engineering was established in 1992. It is equipped with sophisticated laboratories and well qualified faculty. The students are made adept in the sessional at the microprocessors and pc lab, process control and instrumentation and device lab. These labs provide facilities for microprocessors and computer based temperature, pressure, flow and level. Control Engg. Lab adds to the further expertise in electrical, mechanical and electromechanical application based experiments. The dept. also possesses an in house computer hardware lab& PC lab. It has many 8bit/12bit/32bit processor based computer that are connected in the both Linux and Windows NT operating system environment. Other software package like PSPICE, MATLAB, VISUAL STUDIO, JAVA etc. are used for computer aided projects. These help the student in keeping pace with the recent developments in the field of information since and engg. And at the same time enhancing and strengthening their knowledge by designing packages required to solve real life problem. The faculty specializes in the field of process control & instrumentation, telecommunication engg. Digital system, automation engineering, biomedical instrumentation, artificial intelligence, microelectronics, electronic communication system etc.
             </p>
 
+        </div>
+        <h5>Head of the Deparment</h5>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card text-center">
+                    <div class="card-head">
+                        <img src="assets/img/profile.jpg" alt="Head of the department"/>
+                    </div>
+                    <div class="card-body">
+                        Lorem Ipsum
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
