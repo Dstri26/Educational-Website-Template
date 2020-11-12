@@ -22,8 +22,24 @@
         padding: 5px;
 
     }
+    .sideopt{
+        margin:1vw;
+        padding:1vw;
+        border-radius:1vw;
+        background: #ffffff;
+        box-shadow:  20px 20px 60px #d9d9d9, 
+                    -20px -20px 60px #ffffff;
+        
+    }
+    .sideopt:hover{
+        background: #ffffff;
+        box-shadow: inset 8px 8px 16px #ebebeb, 
+            inset -8px -8px 16px #ffffff;
+        text-decoration:none;
+        
+    }
 </style>
-<section style="background:url('./assets/img/visionbg.jpg');background-size:cover;">
+<section style="background:url('./assets/img/visionbg.jpg');background-size:cover;" >
 <div class="container" >
     <!-- Heading -->
     <h3 style = "color: #172a3a">Welcome to CET,Bhubaneswar</h3>
@@ -114,7 +130,47 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
         </div>
         <!-- Sidebar -->
         <div class="col-md-5">
-        <div class="timeline"  style="background-color:rgb(0, 155, 255,0.3);">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-md-5 text-center sideopt">
+                <a href="#">
+                    <img style="height:5em;width:auto;" src="https://img.icons8.com/ios/452/noticeboard.png" alt="">
+                    <h6>Notice Board</h6>
+                </a>
+            </div>
+            <div class="col-md-5 text-center sideopt" >
+                <a href="#">
+                    <img style="height:5em;width:auto;" src="https://img.icons8.com/cotton/2x/mobile-payment--v3.png" alt="">
+                    <h6>Online Fee Payment</h6>
+                </a>
+            </div>
+            <div class="col-md-5 text-center sideopt" >
+                <a href="#">
+                    <img style="height:5em;width:auto;" src="https://cdn.onlinewebfonts.com/svg/img_562621.png" alt="">
+                    <h6>Gallery</h6>
+                </a>
+            </div>
+            <div class="col-md-5 text-center sideopt" >
+                <a href="#">
+                    <img style="height:5em;width:auto;" src=" https://static.thenounproject.com/png/626764-200.png" alt="">
+                    <h6>Events</h6>
+                </a>
+            </div>
+            <div class="col-md-5 text-center sideopt" >
+                <a href="#">
+                    <img style="height:5em;width:auto;" src="https://static.thenounproject.com/png/2515481-200.png" alt="">
+                    <h6>Academic</h6>
+                </a>
+            </div>
+            <div class="col-md-5 text-center sideopt" >
+                <a href="#">
+                    <img style="height:5em;width:auto;" src="https://image.flaticon.com/icons/png/512/88/88591.png" alt="">
+                    <h6>Admission</h6>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+            <div class="timeline"  style="background-color:rgb(0, 155, 255,0.3);">
             <div class="container py-5">
                 <div class="row" >
                         <div class="col-md-10 mx-auto" >
@@ -139,12 +195,14 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
                                 </li>
                             </ul><!-- End -->
                             <br>
-                            <button class="btn btn-primary">More Notice</button>
+                            <button class="btn btn-primary" style="border:0px;background-color: #f6f5ae;color: #212529;">More Notice</button>
 
                         </div>
-                </div>
+                     </div>
+                 </div>
+             </div>
             </div>
-    </div>
+        </div>
         </div>
     </div>
 </div>
