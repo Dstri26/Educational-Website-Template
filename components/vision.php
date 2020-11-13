@@ -29,6 +29,7 @@
         background: #ffffff;
         box-shadow:  20px 20px 60px #d9d9d9, 
                     -20px -20px 60px #ffffff;
+        filter: grayscale(90%);
         
     }
     .sideopt:hover{
@@ -36,6 +37,7 @@
         box-shadow: inset 8px 8px 16px #ebebeb, 
             inset -8px -8px 16px #ffffff;
         text-decoration:none;
+        filter: grayscale(0%);
         
     }
 </style>
@@ -132,38 +134,38 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
         <div class="col-md-5">
         <div class="row justify-content-center align-items-center">
             <div class="col-md-5 text-center sideopt">
-                <a href="#">
-                    <img style="height:5em;width:auto;" src="https://img.icons8.com/ios/452/noticeboard.png" alt="">
+                <a href="./noticeboard.php">
+                    <img style="height:5em;width:auto;" src="https://image.flaticon.com/icons/png/128/3233/3233514.png" alt="">
                     <h6>Notice Board</h6>
                 </a>
             </div>
             <div class="col-md-5 text-center sideopt" >
                 <a href="#">
-                    <img style="height:5em;width:auto;" src="https://img.icons8.com/cotton/2x/mobile-payment--v3.png" alt="">
+                    <img style="height:5em;width:auto;" src="https://freerangestock.com/sample/118524/tablet-and-hand-digital-payment-icon-vector.jpg" alt="">
                     <h6>Online Fee Payment</h6>
                 </a>
             </div>
             <div class="col-md-5 text-center sideopt" >
                 <a href="#">
-                    <img style="height:5em;width:auto;" src="https://cdn.onlinewebfonts.com/svg/img_562621.png" alt="">
+                    <img style="height:5em;width:auto;" src="https://icons-for-free.com/iconfiles/png/512/gallery-131964752828011266.png" alt="">
                     <h6>Gallery</h6>
                 </a>
             </div>
             <div class="col-md-5 text-center sideopt" >
                 <a href="#">
-                    <img style="height:5em;width:auto;" src=" https://static.thenounproject.com/png/626764-200.png" alt="">
+                    <img style="height:5em;width:auto;" src="https://i.pinimg.com/originals/6c/62/cd/6c62cd23f22859554b2de1e7d5887484.png" alt="">
                     <h6>Events</h6>
                 </a>
             </div>
             <div class="col-md-5 text-center sideopt" >
                 <a href="#">
-                    <img style="height:5em;width:auto;" src="https://static.thenounproject.com/png/2515481-200.png" alt="">
+                    <img style="height:5em;width:auto;" src="https://cdn3.iconfinder.com/data/icons/education-209/64/graduation-square-academic-cap-school-512.png" alt="">
                     <h6>Academic</h6>
                 </a>
             </div>
             <div class="col-md-5 text-center sideopt" >
                 <a href="#">
-                    <img style="height:5em;width:auto;" src="https://image.flaticon.com/icons/png/512/88/88591.png" alt="">
+                    <img style="height:5em;width:auto;" src="https://img.icons8.com/color/452/worker-id-card.png" alt="">
                     <h6>Admission</h6>
                 </a>
             </div>
@@ -195,7 +197,7 @@ The College is located in the Techno-campus (an area of more than 100 Acres) at 
                                 </li>
                             </ul><!-- End -->
                             <br>
-                            <button class="btn btn-primary" style="border:0px;background-color: #f6f5ae;color: #212529;">More Notice</button>
+                            <a href="./noticeboard.php"><button class="btn btn-primary" style="border:0px;background-color: #f6f5ae;color: #212529;">More Notice</button></a>
 
                         </div>
                      </div>

@@ -116,7 +116,7 @@ Principal</strong></span><br/><br/>
     </div>
 
 </div>
-<script src="assets/js/more.js"></script>
+
 <?php
     include "components/common/footer.php";
 ?>

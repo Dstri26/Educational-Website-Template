@@ -1,3 +1,4 @@
+<div style="background: #f6f5ae;height: 1vh;"></div>
 <div class="footer-dark" style="background: url(&quot;https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/4651/2018/4/23/CET-Bhubaneswar--Campus-View-2.png&quot;) center / cover no-repeat;padding: 0px;height:auto">
         <footer class="d-flex align-items-center" style="background: rgba(0,0,0,0.6);height:auto;padding:10vh;">
             <div class="container">
@@ -28,6 +29,7 @@
             </div>
         </footer>
     </div>
+    <script src="assets/js/more.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.9/fullpage.js" integrity="sha512-eH2N2Zt2AeLuFlFvRSEeZcVeAESY+8nfIqhxx0XXEou6w/G4lLY3K8UKNYqi6e1pLXDduVF1KF/lbyxy3+X6OA==" crossorigin="anonymous"></script>
