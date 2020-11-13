@@ -1,0 +1,94 @@
+
+body{
+margin: 50px;
+display: table-row;
+align-items: center;
+justify-content: center;
+margin: 50px;
+}
+.container-1{
+	display: flex;
+	align-items: center;
+justify-content: center;
+margin: 50px;
+
+}
+.card{
+	 border-radius: 10% 10% 10% 10%;
+	 justify-content: center;
+	 align-content: center;
+	 padding: 10px;
+	 overflow: auto;
+	 margin-top: -3.58px;
+}
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+  border-radius: 10% 10% 10% 10%;
+
+}
+.card-body{
+	width: 700px;
+height:250px;
+overflow: auto;
+justify-content: center;
+border-radius: 10% 10% 10% 10%;
+}
+.border-1{
+	border-width: 5px;
+border-style: solid;
+border-radius: 10% 10% 10% 10%;
+margin-top: 10px;
+width: 650px;
+height:275px;
+
+}
+.border-2{
+	border-width: 5px;
+border-style: solid;
+border-radius:  10% 10% 10% 10%;
+margin-top: 10px;
+width: 650px;
+height:275px;
+margin: 10px;
+}
+.image-size{
+	height: 250px;
+	width: 300px;
+	border-radius: 10% 10% 10% 10%;
+}
+.card-title{
+	font: bold;
+}
+.bouton-image:before {
+    content: "";
+    width: 200px;
+    height: 200px;
+    display: grid;
+   margin: 5px;
+    vertical-align: text-top;
+    background-color: transparent;
+    background-position : center center;
+    background-repeat:no-repeat;
+   align-items: center;
+   border-radius: 5px;
+
+}
+.six{
+align-content: center;
+padding: 2px;
+	margin-left: 100px;
+	background-color: #000000;
+	border-radius: 10px;
+	
+}
+
+.monBouton:before{
+     background-image : url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9jHzh6BIs9gghNzjP2sQWeKnAKo7-Z-HH8g&usqp=CAU);
+
+   
+}
+.monBouton1:before{
+     background-image : url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNN1ovXDHd0dfxGeqFxJ37Dke0cv-H-f9AHg&usqp=CAU);
+   
+}
