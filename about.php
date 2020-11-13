@@ -3,9 +3,126 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: "Open Sans",sans-serif;
+            box-sizing: border-box;
+        }
+
+
+        .about-section{
+            background: url(assets/img/pic2.png) no-repeat left;
+            background-size: 75%;
+            background-color: #fdfdfd;
+            overflow: hidden;
+            padding: 100px 0;
+            
+        }
+
+        .inner-container{
+            width: 55%;
+            float: right;
+            padding: 10px;
+            height: 66%;
+            border-width: 10px;
+            border-style: solid;
+            border-radius: 15px;
+            margin-right: 30px;
+        background-color: #fdfdfd;
+            }
+
+        .inner-container h1{
+            margin-bottom: 30px;
+            font-size: 30px;
+            font-weight: 900;
+        }
+
+        .text{
+            font-size: 13px;
+            color: #545454;
+            line-height: 30px;
+            text-align: justify;
+            margin-bottom: 40px;
+        }
+        .border-1{
+
+        width: 104%;
+            float: right;
+            background-color: #fdfdfd;
+            padding: 60px;
+            overflow: auto;
+            height: 110%;
+            border-width: 10px;
+            border-style: solid;
+            border-radius: 15px;
+            margin-right: -30px;
+        
+        }
+
+        @media screen and (max-width:1200px){
+            .inner-container{
+                padding: 20px;
+                
+                
+            }
+            .border-1{
+                padding: 30px;
+                margin-right: -50px;
+                width: 110%;
+                height:115%;
+            }
+        }
+
+        @media screen and (max-width:1000px){
+            .about-section{
+                background-size: 100%;
+                padding: 100px 40px;
+            }
+            .inner-container{
+                width: 100%;
+                
+                
+            }
+            .border-1{
+                width:100%;
+                margin-right: 0px;
+                height: 100%;
+            }
+        }
+
+        @media screen and (max-width:600px){
+            .about-section{
+                padding: 0;
+
+            }
+            .inner-container{
+                padding: 10px;
+        width: 80%;
+                margin-right: 60px;
+                margin-left: 60px;
+                
+            }
+            .border-1{
+                padding: 30px;
+                height: 100%;
+                width: 100%;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="icon" href="./assets/img/logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Actor">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+SC">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
 </head>
 <body>
+    <?php
+        include "components/common/navbar.php";
+    ?>
     <div class="about-section">
         <div class="inner-container">
              <div class="border-1">
@@ -37,7 +154,6 @@ In the current academic year 2014-15, Odisha State Govt. introduced nine new PG 
 Students are admitted into this College through JEE conducted by the Govt. of India/Odisha. Student intake for the academic year 2013-14 has been increased from 517 to 957 i.e. in B.Tech. Mechanical Engg. from 45 to 120, B.Tech. Electrical Engg. from 45 to 120, B.Tech. I&E Engg. from 30 to 120 and B.Tech. Civil Engg. from 30 to 120 considering the need of technical manpower in the State.
 </br> </br>
   </div>
-    </div>
-    
+    </div><br/>
 </body>
 </html>
