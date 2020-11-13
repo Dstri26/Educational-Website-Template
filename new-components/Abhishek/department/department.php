@@ -4,146 +4,8 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <style>
-      .card1 {
-        display: grid;
-        grid-template-columns: 290px;
-        grid-template-rows: 210px 210px 80px;
-        grid-template-areas: "image" "text";
-        border-radius: 18px;
-        background: white;
-        box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-        font-family: roboto;
-        text-align: center;
-        transition: 0.5s ease;
-        cursor: pointer;
-        margin:30px;
-      }
-      .card1-image {
-        grid-area: image;
-        background: url(assets/img/img1.jpg);
-        border-top-left-radius: 15px;
-        border-top-right-radius: 15px;
-        background-size: cover;
-      }
-
-      .card1-text {
-        grid-area: text;
-        margin: 25px;
-        overflow: auto;
-        height: 120%
-      }
-      .card1-text p {
-        color: grey;
-        font-size:15px;
-        font-weight: 300;
-        height: 100%
-      }
-      .card1-text h2 {
-        margin-top:0px;
-        font-size:18px;
-      }
-
-      .card1:hover {
-        transform: scale(1.15);
-        box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
-      }
-
-      .card1-image.card12 {
-        background: url("https://miro.medium.com/max/2800/0*4wMrvjNRA9kcVvks");
-        background-size: cover;
-      }
-      .card1-text.card12 .date {
-        color: rgb(255, 77, 7);
-      }
-
-
-      .card1-image.card13 {
-        background: url("https://www.cantercadd.com/cadd-courses/civilcadd1.jpg");
-        background-size: cover;
-      }
-      .card1-text.card13 .date {
-        color: rgb(0, 189, 63);
-      }
-      .card1-image.card14 {
-        background: url("https://www.tacoma.uw.edu/sites/default/files/styles/node_gallery_display/public/node_gallery/HomeCSS.png?itok=dTnNbY9z");
-        background-size: cover;
-      }
-      .card1-text.card14 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card15 {
-        background: url("https://mindlercareerlibrarynew.imgix.net/1G-Computer_ScienceCsIT_Software_Engineering.png");
-        background-size: cover;
-      }
-      .card1-text.card15 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card16 {
-        background: url("https://tryengineering.org/wp-content/uploads/bigstock-Electronics-3146661.jpg");
-        background-size: cover;
-      }
-      .card1-text.card16 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card17 {
-        background: url("https://i.pinimg.com/originals/7d/71/f5/7d71f5e78c4d883fdf48b5c89bc61adc.jpg");
-        background-size: cover;
-      }
-      .card1-text.card17 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card18 {
-        background: url("https://admin.workforce.com/wp-content/uploads/sites/2/2018/12/AI-is-coming-%E2%80%94-and-HR-is-not-prepared.jpg");
-        background-size: cover;
-      }
-      .card1-text.card18 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card19 {
-        background: url(https://media-exp1.licdn.com/dms/image/C4E1BAQGpoD6OAi9CCA/company-background_10000/0?e=2159024400&v=beta&t=jUZF0tEI9S_IBNay-BX3zPlvFP2DHdp9UNDqgaBdjXQ);
-        background-size: cover;
-      }
-      .card1-text.card19 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card20 {
-        background: url("https://www.usnews.com/dims4/USNEWS/0be1944/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F07%2F00354c85a0a99b4abfd67d48bd3e4c%2Fjobs-job-photo-101.jpg");
-        background-size: cover;
-      }
-      .card1-text.card20 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card21 {
-        background: url("https://www.indiaeducation.net/imagesvr_ce/5225/textile.jpg");
-        background-size: cover;
-      }
-      .card1-text.card21 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card22 {
-        background: url("https://www.scottengineering.com/masonry/resources/site-w640.jpg");
-        background-size: cover;
-      }
-      .card1-text.card22 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card23 {
-        background: url(assets/img/img3.jpg);
-        background-size: cover;
-      }
-      .card1-text.card23 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card24 {
-        background: url(assets/img/img3.jpg);
-        background-size: cover;
-      }
-      .card1-text.card24 .date {
-        color: rgb(0, 189, 63);
-      }.card1-image.card25 {
-        background: url(assets/img/img3.jpg);
-        background-size: cover;
-      }
-      .card1-text.card25 .date {
-        color: rgb(0, 189, 63);
-      }
-    </style>
   </head>
-  <body style = "background:#BCDBF0;">
-    <?php
-      include "components/common/navbar.php";
-    ?>
+  <body>
 <div class="container">
   <div class="row" >
     <div class="col-md-4">
@@ -288,7 +150,7 @@ PO 11:	To recognize the importance of professional development by pursuing postg
         <div class="card1-image card19"></div>
         <div class="card1-text card19">
          
-          <a href="instrumentation.php"><h2>Department Of Instrumentation & Electronics Engineering</h2></a>
+          <h2>Department Of Instrumentation & Electronics Engineering</h2>
           <hr/>
           <p>The Department of Instrumentation and Electronics Engineering was established in 1992. It is equipped with sophisticated laboratories and well qualified faculty. The students are made adept in the sessional at the microprocessors and pc lab, process control and instrumentation and device lab. These labs provide facilities for microprocessors and computer based temperature, pressure, flow and level. Control Engg. Lab adds to the further expertise in electrical, mechanical and electromechanical application based experiments. The dept. also possesses an in house computer hardware lab& PC lab. It has many 8bit/12bit/32bit processor based computer that are connected in the both Linux and Windows NT operating system environment. Other software package like PSPICE, MATLAB, VISUAL STUDIO, JAVA etc. are used for computer aided projects. These help the student in keeping pace with the recent developments in the field of information since and engg. And at the same time enhancing and strengthening their knowledge by designing packages required to solve real life problem. The faculty specializes in the field of process control & instrumentation, telecommunication engg. Digital system, automation engineering, biomedical instrumentation, artificial intelligence, microelectronics, electronic communication system etc.
 			</p>
@@ -398,9 +260,8 @@ PO 11:	An ability to understand the impact of engineering solutions in a global 
   </div>
 </div>
     
-<?php
-  include "components/common/footer.php";
-?>
-      
-</body>
+   
+    
+   
+  </body>
 </html>
