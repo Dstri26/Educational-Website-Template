@@ -159,11 +159,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -190,11 +190,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -205,11 +205,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -220,11 +220,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -251,11 +251,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -266,11 +266,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -281,11 +281,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -310,11 +310,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -325,11 +325,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -340,11 +340,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -369,11 +369,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -384,11 +384,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>
@@ -399,11 +399,11 @@
                                                         <br>
                                                             <img class="card-img-top" style="border-radius:50%;padding:1vw;" src="./assets/img/PKPatra1.jpg" alt="Card image cap">
                                                             <div class="card-body">
-                                                                <h5 class="card-title">Prof.  (Dr.) Prashanta Kumar Patra</h5>
-                                                                <p class="card-text">Principal</p>
+                                                                <h5 class="card-title">Lorem Ipsum</h5>
+                                                                <p class="card-text">Position</p>
                                                             </div>
                                                             <ul class="list-group list-group-flush">
-                                                                <li class="list-group-item">Soft Computing, Pattern Recognition </li>
+                                                                <li class="list-group-item">Lorem Ipsum </li>
                                                                 <li class="list-group-item">Dapibus ac facilisis in</li>
                                                                 <li class="list-group-item">Vestibulum at eros</li>
                                                             </ul>

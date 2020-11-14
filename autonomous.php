@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Autonomous</title>
-</head>
-<body>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<link rel="stylesheet" type="text/css" href="style.css">
+<?php
+    include "components/common/header.php";
+?>
 <style>
     
     body{
@@ -14,16 +9,17 @@
     align-items: center;
     justify-content: center;
     margin: 50px;
+    background-color:#BCDBF0;
     }
     .container-1{
-        display: flex;
-        align-items: center;
+    display: flex;
+    align-items: center;
     justify-content: center;
     margin: 50px;
 
     }
     .card{
-        border-radius: 10% 10% 10% 10%;
+        border-radius: 10% 0 10% 0;
         justify-content: center;
         align-content: center;
         padding: 10px;
@@ -33,20 +29,20 @@
     .card-horizontal {
     display: flex;
     flex: 1 1 auto;
-    border-radius: 10% 10% 10% 10%;
+    border-radius: 10% 0 10% 0;
 
     }
     .card-body{
-        width: 700px;
+    width: 700px;
     height:250px;
     overflow: auto;
     justify-content: center;
-    border-radius: 10% 10% 10% 10%;
+    border-radius: 10% 0 10% 0;
     }
     .border-1{
         border-width: 5px;
     border-style: solid;
-    border-radius: 10% 10% 10% 10%;
+    border-radius: 10% 0 10% 0;
     margin-top: 10px;
     width: 650px;
     height:275px;
@@ -55,7 +51,7 @@
     .border-2{
         border-width: 5px;
     border-style: solid;
-    border-radius:  10% 10% 10% 10%;
+    border-radius:  10% 0 10% 0;
     margin-top: 10px;
     width: 650px;
     height:275px;
@@ -64,7 +60,7 @@
     .image-size{
         height: 250px;
         width: 300px;
-        border-radius: 10% 10% 10% 10%;
+        border-radius: 10% 0 10% 0;
     }
     .card-title{
         font: bold;
@@ -105,6 +101,7 @@
 <?php
     include "components/common/navbar.php";
 ?>
+
 <div class="container-1">
 	
 	<div class="border-1">
@@ -242,6 +239,4 @@
 <?php
     include "components/common/footer.php";
 ?>
-</body>
-</html>
 
