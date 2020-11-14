@@ -155,6 +155,5 @@ Students are admitted into this College through JEE conducted by the Govt. of In
 </br> </br>
   </div>
     </div><br/>
-
 </body>
 </html>
