@@ -14,7 +14,7 @@
 
         .about-section{
             background: url(assets/img/pic2.png) no-repeat left;
-            background-size: 75%;
+            background-size: 100%;
             background-color: #fdfdfd;
             overflow: hidden;
             padding: 100px 0;
@@ -26,11 +26,11 @@
             float: right;
             padding: 10px;
             height: 66%;
-            border-width: 10px;
+            border: 2px solid rgba(0,0,0,0.5);
             border-style: solid;
             border-radius: 15px;
             margin-right: 30px;
-        background-color: #fdfdfd;
+            background-color: #fdfdfd;
             }
 
         .inner-container h1{
@@ -48,13 +48,13 @@
         }
         .border-1{
 
-        width: 104%;
+            width: 104%;
             float: right;
             background-color: #fdfdfd;
             padding: 60px;
             overflow: auto;
             height: 110%;
-            border-width: 10px;
+            border: 2px solid rgba(0,0,0,0.5);
             border-style: solid;
             border-radius: 15px;
             margin-right: -30px;
@@ -99,7 +99,7 @@
             }
             .inner-container{
                 padding: 10px;
-        width: 80%;
+                width: 80%;
                 margin-right: 60px;
                 margin-left: 60px;
                 

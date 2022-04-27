@@ -29,7 +29,7 @@
         background: #ffffff;
         box-shadow:  20px 20px 60px #d9d9d9, 
                     -20px -20px 60px #ffffff;
-        filter: grayscale(90%);
+        filter: grayscale(50%);
         
     }
     .sideopt:hover{
